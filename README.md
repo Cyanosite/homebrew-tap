@@ -4,6 +4,7 @@ Homebrew formulae for my tools.
 
 ```sh
 brew tap Cyanosite/tap
+brew trust Cyanosite/tap      # Homebrew 6+ requires trusting third-party taps once
 ```
 
 | Formula | Description |
